@@ -7,8 +7,7 @@ Answer:: 266,740,868 unique addresses as at the time of writing | source: https:
 
   
 Question:: Who Validated the first block after genesis block? 
-Answer:: Sigma8 Validator ; "https://bscscan.com/address/0x2a7cdd959bfe8d9487b2a43b33565295a698f7e2"
-    -- #1 : "https://bscscan.com/blocks?p=1050768"
+Answer:: Sigma8 Validator | source: https://bscscan.com/address/0x2a7cdd959bfe8d9487b2a43b33565295a698f7e2 & https://bscscan.com/blocks?p=1050768
 
 
 Question:: Roughly, how many transactions are pending? 
